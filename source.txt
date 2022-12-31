@@ -1,3 +1,8 @@
-https://www.weather.gov/rah/
-https://www.weather.gov/
-https://www.weather.gov/mhx/
+Sources:
+    rah: https://www.weather.gov/rah/
+    all: https://www.weather.gov/
+    mhx: https://www.weather.gov/mhx/
+    gsp: https://www.weather.gov/gsp/
+    akq: https://www.weather.gov/akq 
+    rnk: https://www.weather.gov/rnk 
+    
